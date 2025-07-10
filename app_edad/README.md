@@ -60,4 +60,12 @@ CMD [ "python", "app.py" ]
 * Antes de los cambios 
 ![alt text](image-3.png)
 
-* Después de guarlo
+* Preparamos los archivos para hacer el commit
+![alt text](image-4.png)
+
+* Hacemos el commit y tambie´n el push
+![alt text](image-5.png)
+![alt text](image-6.png)
+
+* Vemos los cambios en el GitHub
+![alt text](image-7.png)
